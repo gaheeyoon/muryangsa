@@ -233,10 +233,6 @@ main {
         margin: 50px -20px 0;
     }
 
-    .map-container {
-        height: 254px;
-    }
-
     .info-box {
         flex-direction: column;
         gap: 40px;
